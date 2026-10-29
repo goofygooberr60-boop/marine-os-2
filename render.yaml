@@ -1,0 +1,11 @@
+services:
+  - type: web
+    name: marine-os
+    runtime: node
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /healthz
+    plan: free
+    envVars:
+      - key: NODE_OPTIONS
+        value: --max-old-space-size=400

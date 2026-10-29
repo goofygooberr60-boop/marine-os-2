@@ -1,0 +1,42 @@
+[
+  {
+    "id": "moss-moss",
+    "name": "Moss Moss",
+    "genre": "Platformer",
+    "image": "https://img.itch.zone/aW1nLzI1OTEzNDI3LnBuZw%3D%3D/original/ggjPxb.png",
+    "url": "https://noelcody.itch.io/moss-moss",
+    "creator": "Noel Cody"
+  },
+  {
+    "id": "petal-quest",
+    "name": "Petal Quest",
+    "genre": "Adventure",
+    "image": "https://img.itch.zone/aW1nLzE5MzAxOTAwLnBuZw%3D%3D/original/6KUkR%2B.png",
+    "url": "https://noelcody.itch.io/petal-quest",
+    "creator": "Noel Cody"
+  },
+  {
+    "id": "six-cats-under",
+    "name": "Six Cats Under",
+    "genre": "Puzzle",
+    "image": "https://img.itch.zone/aW1nLzM0NjIwODcucG5n/original/Zya8qj.png",
+    "url": "https://teambeanloop.itch.io/six-cats-under",
+    "creator": "Team Bean Loop"
+  },
+  {
+    "id": "sandtrix",
+    "name": "Sandtrix",
+    "genre": "Puzzle",
+    "image": "https://img.itch.zone/aW1nLzEzODI2ODE1LnBuZw%3D%3D/original/0TTM%2Bp.png",
+    "url": "https://msky-dev.itch.io/sandtrix",
+    "creator": "msky-dev"
+  },
+  {
+    "id": "goodbye-doggy",
+    "name": "Goodbye, Doggy",
+    "genre": "Puzzle",
+    "image": "https://img.itch.zone/aW1hZ2UvMzYyNDU5LzE4MTE0MjcuZ2lm/original/LgMR9Q.gif",
+    "url": "https://picogram.itch.io/goodbye-doggy",
+    "creator": "Picogram"
+  }
+]

@@ -1,0 +1,6 @@
+[build]
+  command = "node marine-os-proxy/scripts/build-netlify.js"
+  publish = "marine-os-proxy/dist"
+
+[build.environment]
+  NODE_VERSION = "20"
